@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Tale
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://cstavitsky.github.io/"
 
 # Assets
 sass:
@@ -17,15 +17,15 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Chris Stavitsky
+  url:          http://cstavitsky.github.io
+  email:        corridorr@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/cstavitsky/tale
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
