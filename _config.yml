@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          irrationally excited
 paginate:       5
 baseurl:        ""
 url:            "https://cstavitsky.github.io/"
