@@ -4,7 +4,7 @@ title: Why It's Reasonable to Choose Extremes
 author: Chris
 published: true
 ---
-##Orientation Week, 2009.
+## Orientation Week, 2009.
 
 During my first week of college, new students went through a set of icebreakers. One was the common 'two truths and a lie' game. Another was to give a wacky fact about yourself (careful not to get too wacky, though, lest your new peers think you're a weirdo). But there was another exercise whose format still seems valuable to me now, nearly eight years later.
 
@@ -101,7 +101,7 @@ eat unhealthy .......................x........ eat healthy
 
 Making a values-based change may let you experience new, exciting ways of doing everyday things. It may let you learn valuable skills. Consider ways in which you might bend a seeming disadvantage (such as financial constraint) into a benefit. I'm excited that the food setup, born out of financial restriction, is likely to have the side benefit of making me healthier and building the habit of eating less. It's very exciting to me that deciding to move to this new apartment provided a chance to shake off the inertia of other, seemingly unrelated lifestyle choices. Our routines are more interconnected than we often give them credit for.
 
-##Make Reversible Choices.
+## Make Reversible Choices.
 
 I already know what it's like to have relative financial freedom, eat out all the time, and live in a janky apartment, because I've experienced it. I don't yet know what it's like to live in a place I feel I can call home, while keeping a strict budget. So exploring the relative extremes, on each end of the spectrum, will allow me to speak from experience the next time I'm asked to decide my priorities. A lease is relatively temporary (one year), and if I decide that this experiment was a mistake, and that I preferred spending freely and living cheaply, then I'll be able to reverse that in a year's time.
 
