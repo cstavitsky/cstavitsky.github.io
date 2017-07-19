@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: About
+author: Chris
 permalink: /about/
+published: true
 ---
+I enjoy writing. In school I had an English minor and once believed I might end up as a copywriter (although, to be honest, I don't think my expectations matched up with the reality).
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Now that I work in software development, I don't really have a day-to-day outlet for my thoughts. The culture is more focused on problem-solving and less about reflecting on non-technical things. The type of analysis used to solve programming problems might have some overlap with analytical essay-writing, but many programmers tend to blog about code or starting a startup.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+It's likely that I'll also talk about these things (like in the `Theme` section just below), but readers of this blog shouldn't _have_ to be programmers or people interested in starting companies to find the posts compelling. 
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+If you think I've fallen short in any way, please shoot me a note at `corridorr@gmail.com` and let me know what I can do to improve. There isn't a comment system here, but I always welcome your thoughts on any blog posts. If your feedback is kind, I'll be more receptive to it.
+
+## Theme
+This is a [Jekyll](https://github.com/jekyll/jekyll) blog. Jekyll sites generate static html pages, rather than making extra calls to load up content from a database. Learn more about this [on Quora](https://www.quora.com/How-does-a-static-site-generator-like-Jekyll-work). It's hosted on Github Pages, which is the main reason I chose it. I looked into other blogging platforms like Ghost, but even hosting it yourself, you're going to be paying at least $5-10 per month.
+
+The theme is called Tale and you can [find and fork the original repository here](https://github.com/chesterhow/tale).
 
 Thanks for reading!
