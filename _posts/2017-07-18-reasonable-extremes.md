@@ -38,7 +38,7 @@ As my roommate prepared to move to a different city, to be closer to his longtim
 
 It wasn't a conscious decision, at first, but I began to single out places that were the opposite of my 4-year apartment. The old place was relatively cheap, with terrible carpeting and oddly high cabinets. My room was enormous but received almost no light. You could go directly into it, through a separate downstairs door, and avoid the common space entirely. There was a square hole in the ceiling with a spiral staircase leading upstairs, which sounds nice but also let in unwanted sound and light. If we were to position my choices on two spectrums, they might look something like this:
 
-![More fluorescent-lit public library than wood-paneled home library.]({{site.baseurl}}/_posts/low_home_high_freedom.png)
+![More fluorescent-lit public library than wood-paneled home library.](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/low_home_high_freedom.png)
 
 I rarely looked forward to spending lazy weekends inside lounging around, or relaxing on the sofa after work. We actually had two terrible couches, and these two wrongs did not make a right. One was an ugly floral number with cushions that sprang free like unleashed dogs every time you sat down. Another was an uncomfortable old rectangle from IKEA with a broken arm. We hid its defects under a beige slipcover reminiscent of a burlap potato sack. I became trained to take showers exclusively at night; in the mornings, nothing but a slow cold trickle exited my showerhead. Occasionally the upstairs bathroom flooded (ironically, always in the morning) and I would be awakened to drips of water falling onto my carpet from the ceiling. I'd spread t-shirts on the floor and stomp on them to absorb moisture, then rub baking soda into the damp carpet in a futile effort to reduce the musty smell.
 
@@ -64,7 +64,7 @@ With my money and my choice to sign a lease, I would be physically aligning myse
 
 The choice I was considering required me to place myself differently on the spectrum this time. This diagram looks similar to the previous one, but don't be fooled: my preferences completely flipped.
 
-![Jeeves, please fetch the brandy from my oak chest.]({{site.baseurl}}/_posts/low_freedom_very_homey.png)
+![Jeeves, please fetch the brandy from my oak chest.](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/low_freedom_very_homey.png)
 
 These are the complete opposites of where I placed myself before. And the most interesting part of this idea has nothing to do with apartments: it's that our values are malleable, and that making a difficult decision has the power to melt down our values, then hammer them back into a different weapon like a blacksmith.
 
