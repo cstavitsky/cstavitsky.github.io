@@ -38,9 +38,7 @@ As my roommate prepared to move to a different city, to be closer to his longtim
 
 It wasn't a conscious choice, at first, but I began to single out places that were the opposite of my 4-year apartment. The old place was relatively cheap, with terrible carpeting and oddly high cabinets. My room was enormous but received almost no light. You could go directly into it, through a separate downstairs door, and avoid the common space entirely. There was a square hole in the ceiling with a spiral staircase leading upstairs, which sounds nice but also let in unwanted sound and light. If we were to position my choices on two spectrums, they might look something like this:
 
-doesn't feel homey ...x........................... feels extremely homey
-
-no financial freedom ...........................x... lots of financial freedom
+![More fluorescent-lit public library than wood-paneled home library.]({{site.baseurl}}/_posts/low_home_high_freedom.png)
 
 I rarely looked forward to spending lazy weekends inside lounging around, or relaxing on the sofa after work. We actually had two terrible couches, and these two wrongs did not make a right. One was an ugly floral number with cushions that sprang free like unleashed dogs every time you sat down. Another was an uncomfortable old rectangle from IKEA with a broken arm. We hid its defects under a beige slipcover reminiscent of a burlap potato sack. I had to learn to take showers exclusively at night; in the morning, no water came out of my showerhead. Occasionally the upstairs bathroom flooded (ironically, always in the morning) and I would be awakened in the morning to drips of water falling onto my carpet from the ceiling. I'd spread t-shirts on the floor and stomp on them to absorb moisture, then rub baking soda into the damp carpet in a futile effort to reduce the musty smell.
 
@@ -64,11 +62,9 @@ And despite all the downsides, I still wanted to rent the apartment. In fact, th
 
 With my money and my choice to sign a lease, I would be physically aligning myself just like we did in that college classroom, somewhere between the windows and the blackboard. I would have skin in the game, and would both reap the benefits of my decision and concede to its disadvantages. 
 
-The choice I was considering required me to place myself differently on the spectrum this time:
+The choice I was considering required me to place myself differently on the spectrum this time. This diagram looks similar to the previous one, but don't be fooled: my preferences completely flipped.
 
-doesn't feel homey ..............................x. feels extremely homey
-
-no financial freedom ......x......................... lots of financial freedom
+![Jeeves, please fetch the brandy from my oak chest.]({{site.baseurl}}/_posts/low_freedom_very_homey.png)
 
 These are the complete opposites of where I'd been placing myself before. And the most interesting part of this idea has nothing to do with apartments: it's that our values are malleable, and that making a difficult decision has the power to melt down our values, then hammer them back into a different weapon like a blacksmith.
 
@@ -88,16 +84,9 @@ I don't like carrying tupperware to work, nor do I like cleaning it out, so I th
 
 The constraint provided by my budget will have the side effect of making it easier to eat healthier. Being constrained in what I can spend on food forces me to think more about it and optimize, which I think will be a huge net positive over the coming year. I think I weigh about 220lbs currently (maybe a little less), and I'm curious to see what I'll weigh in mid-July, 2018. I suspect I'll lose weight and feel healthier. It'll be hard to break from this diet much, given that I literally won't be able to afford to do so.
 
-And in the morning, sometimes I'll have free (so-so) coffee from work. Other times I intend to use an Aeropress passed on from my roommate. The financial pressure means I can't go to coffee shops everyday, but because I'd still like to drink quality coffee, I finally have a reason to try making coffee at home. I do love coffee shops (the drinks and the atmosphere), and in the past my desire for convenience has outweighed any sprout of interest in brewing coffee at home. But now that cost is a factor, the silver lining is that I may gain a better understanding of what goes into preparing coffee--and how different brewing methods can affect taste. It'll be a hands-on thing, where I'll have the opportunity to feel a small pride in my coffee-making, and watch videos on YouTube to learn more about the best way to brew with the Aeropress. Not to mention I'll have a better atmosphere in my new apartment, which (I hope) will make it feel more like a coffee shop in its own right. I'm even considering getting a decal for the window with the name and logo of a fake coffee shop.
+And in the morning, sometimes I'll have free (so-so) coffee from work. Other times I intend to use an Aeropress passed on from my roommate. The financial pressure means I can't go to coffee shops everyday, but because I'd still like to drink quality coffee, I finally have a reason to try making coffee at home. I do love coffee shops (the drinks and the atmosphere), and in the past my desire for convenience has outweighed any sprout of interest in brewing coffee at home. But now that cost is a factor, the silver lining is that I may gain a better understanding of what goes into preparing coffee--and how different brewing methods can affect taste. It'll be a hands-on thing, where I'll have the opportunity to feel a small pride in my coffee-making, and watch videos on YouTube to learn more about the best way to brew with the Aeropress. Not to mention I'll have a better atmosphere in my new apartment, which (I hope) will make it feel more like a coffee shop in its own right. I'm even considering getting a decal for the window with the name and logo of a fake coffee shop. I haven't really thought much about that yet.
 
-**with old apartment**  
-eat unhealthy ......x......................... eat healthy
-
-**with new apartment**  
-eat unhealthy .......................x........ eat healthy
-
-**new skill!** - coffee brewing  [add icon badge]  
-**new skill!** - solid repertoire of fast, cheap meals [add icon badge]
+![Not that I've thought about the logo much yet.......]({{site.baseurl}}/_posts/chris_coffee_badge.png)
 
 Making a values-based change may let you experience new, exciting ways of doing everyday things. It may let you learn valuable skills. Consider ways in which you might bend a seeming disadvantage (such as financial constraint) into a benefit. I'm excited that the food setup, born out of financial restriction, is likely to have the side benefit of making me healthier and building the habit of eating less. It's very exciting to me that deciding to move to this new apartment provided a chance to shake off the inertia of other, seemingly unrelated lifestyle choices. Our routines are more interconnected than we often give them credit for.
 
