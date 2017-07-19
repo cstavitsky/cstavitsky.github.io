@@ -1,37 +1,9 @@
 ---
 layout: post
-title: Why It's Reasonable to Choose Extremes
+title: Want To Alter Your Values? Make Big Decisions
 author: Chris
 published: true
 ---
-## Orientation Week, 2009.
-
-During my first week of college, they had us participate in several icebreakers. Two Truths and a Lie. Then 'give a wacky fact about yourself' (careful now, Chris, not _too_ wacky; do you want your new peers thinking you're a fucking weirdo?). I remember those vividly, for the same reason I remember much of that first week. When you move from New Jersey to Chicago knowing noone, ready to start fresh, everything is memorable. But it's another icebreaker that I'm interested in talking about with you.
-
-It was a beautiful day in late September, still warm enough for shorts. Some new dorm-mates and I stepped out of the elevator and into a classroom in Wieboldt. Afternoon sunlight shone through the tall gothic windows and played across the carpet. A pair of older students sat in the corner with a little stack of paper. They seemed infinitely mature, and were probably no more than a year or two ahead of us. They smiled as we came in, and motioned toward the tables. We slid onto navy chairs made of hard resin and double-checked the schedules in our orientation folders. More students arrived. A natural circle formed around the tables. Some of us sat with our new best friends and chatted conspiratorially. Others sat in silence and stared at their phones. When it was five minutes past the start time, the two student leaders got up and introduced themselves.
-
-"We're going to be doing a set of exercises today," one of them said, "For which I'll need everyone to stand up."
-
-She took a sheet of paper from the pile and walked over towards the windows on the far side of the room. "This," she said, as she taped the piece of paper to the window, "Is the Side of Extreme Agreement."
-
-**Completely Agree**, it said.
-
-Her associate took another sheet of paper and walked it to the opposite wall. He taped it there on the blackboard. 
-
-**Completely Disagree**, read the notice.
-
-"Now," said the woman, motioning back and forth at the opposite ends of the room, "We're going to ask you a series of questions. Answer each question by standing somewhere along the spectrum. You might stand all the way at either end, or exactly in the middle, or somewhere in between."
-
-At the first question, our student blob began to stretch out like putty.
-
-On some questions we moved a little closer to one another, forming a protective herd. I remember we all looked around nervously at where the others were standing. Nobody wanted to make a decision that drove them too far from the group. I don't remember many of the exact questions, but there was at least one or two that made people squirm.
-
-Occasionally, someone felt very different about a question than anyone else in the group, and stood alone at one extreme on the spectrum. I never did that.
-
-There was a real kind of skin-in-the-game type atmosphere to this exercise. Our need to stay close to the group revealed our vulnerability. This was different from dispassionately arguing something in a paper (a skill which many of us would become intimately familiar with over the coming years). We didn't merely speculate or pontificate; we physically planted ourselves to take a stance on something. 
-
-## Fast-Forward 8 years.
-
 Recently I began preparing to look for a new apartment. I'd been living in the same place for just shy of four years, with the same roommate. There were some big benefits to this. I didn't need to hire movers every year. I didn't need worry about what neighborhood to choose. My roommate, a friend from college, had a hugely positive influence on what I considered important and the career choices I made. And I think that keeping my living space constant may have helped me to better weather some emotional and existential storms these last couple of years.
 
 As my roommate prepared to move to a different city, to be closer to his longtime girlfriend, it seemed obvious that I'd move on from the apartment as well. Even if we'd stayed in the same city we probably would have switched up our living arrangement. I browsed Craigslist's housing section, trying to juggle the different criteria that go into selecting a place to live: what neighborhood to live in, how much to pay, studio or 1-bed or roommates, high-rise or walkup, and so on. I couldn't really figure out what was important to me in an apartment. The choices were overwhelming.
@@ -40,7 +12,9 @@ It wasn't a conscious decision, at first, but I began to single out places that 
 
 ![More fluorescent-lit public library than wood-paneled home library.](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/low_home_high_freedom.png)
 
-I rarely looked forward to spending lazy weekends inside lounging around, or relaxing on the sofa after work. We actually had two terrible couches, and these two wrongs did not make a right. One was an ugly floral number with cushions that sprang free like unleashed dogs every time you sat down. Another was an uncomfortable old rectangle from IKEA with a broken arm. We hid its defects under a beige slipcover reminiscent of a burlap potato sack. I became trained to take showers exclusively at night; in the mornings, nothing but a slow cold trickle exited my showerhead. Occasionally the upstairs bathroom flooded (ironically, always in the morning) and I would be awakened to drips of water falling onto my carpet from the ceiling. I'd spread t-shirts on the floor and stomp on them to absorb moisture, then rub baking soda into the damp carpet in a futile effort to reduce the musty smell.
+I rarely looked forward to spending lazy weekends inside lounging around. I never relaxed on the sofa after work. We actually had two terrible couches, and these two wrongs did not make a right. One was an ugly floral number with cushions that sprang free like unleashed dogs every time you sat down. Another was an uncomfortable old rectangle from IKEA with a broken arm. We hid its defects under a beige slipcover reminiscent of a burlap potato sack.
+
+It was not only the living room that contributed to this feeling. I'd been trained to shower exclusively at night, because in the mornings, nothing but a slow cold trickle exited my showerhead. Occasionally the upstairs bathroom flooded (ironically, always in the morning) and I would be awakened to drips of water falling onto my carpet from the ceiling. I'd spread t-shirts on the floor and stomp on them to absorb moisture, then rub baking soda into the damp carpet in a futile effort to reduce the musty smell.
 
 Admittedly, my room had come a ways within the fourth and final year of my tenure at the apartment. I'd finally gotten a queen-size bed with a headboard. I'd built my own wooden table for a desk during a summer woodworking class, and bought a white plastic rip-off of those classically simple fiberglass Eames chairs. But there was still nowhere to comfortably read, or to curl up and watch Netflix. The walls had random cracks in them. The paint job was mediocre.
 
@@ -58,17 +32,15 @@ For the last year, I was also spending liberally on clothes, ordered from eBay a
 
 Beyond the day-to-day monetary logistics, I worried about lifestyle creep. If I grew acclimated to spending more money on rent (especially *double* the previous rent), to living in a physically nicer place, it would be harder to go back to living in a mediocre apartment. Making this choice might subtly lead me to spend more on rent forever.
 
-And despite all the downsides, I still wanted to rent the apartment. In fact, there were some unexpected upsides.
+And despite all the downsides, I still wanted to rent the apartment. In fact, I recognized that making this decision would provide unexpected upsides.
 
-With my money and my choice to sign a lease, I would be physically aligning myself just like we did in that college classroom, somewhere between the windows and the blackboard. I would have skin in the game, and would both reap the benefits of my decision and concede to its disadvantages. 
+With my money and my choice to sign a lease, I re-aligned myself on the spectrum of values from earlier. I would have skin in the game, and would both reap the benefits of my decision and concede to its disadvantages.
 
 The choice I was considering required me to place myself differently on the spectrum this time. This diagram looks similar to the previous one, but don't be fooled: my preferences completely flipped.
 
 ![Jeeves, please fetch the brandy from my oak chest.](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/low_freedom_very_homey.png)
 
-These are the complete opposites of where I placed myself before. And the most interesting part of this idea has nothing to do with apartments: it's that our values are malleable, and that making a difficult decision has the power to melt down our values, then hammer them back into a different weapon like a blacksmith.
-
-I'm sure that some of the beliefs people held as they placed themselves on the imaginary spectrum during the icebreaker game have held strong nearly a decade later. But I'm also willing to bet that some of them have changed completely.
+The most interesting aspect of my value adjustments has nothing to do with apartments. _Our values are malleable; making a difficult decision has the power to melt down our values, then hammer them back into a different weapon like a blacksmith._
 
 I made a conscious decision that supported a radically different set of values than I'd previously accepted. And by adjusting my values, I opened myself up to the chance to try new experiences and develop new skills that I would have otherwise continued to overlook.
 
