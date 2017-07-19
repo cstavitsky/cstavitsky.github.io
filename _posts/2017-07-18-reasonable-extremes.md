@@ -92,7 +92,7 @@ In the morning, sometimes I'll have the free (so-so) coffee from work. Other tim
 
 Not to mention I'll have a better atmosphere in my new apartment, which (I hope) will make it feel more like a coffee shop in its own right. I'm even considering getting a decal for the window with the name and logo of a fake coffee shop. I haven't really thought much about that yet. Nope. Haven't thought about it at all.
 
-![Not that I've thought about the logo much yet.......]({{site.baseurl}}/_posts/chris_coffee_badge.png)
+![Not that I've thought about the logo much yet.......](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/chris_coffee_badge.png)
 
 (Nah- if I do actually do the decal thing, I'll probably take it a little more seriously. Give it a fancy name and whatnot. Maybe hours of operation.)
 
