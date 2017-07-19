@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          irrationally excited
 paginate:       5
-baseurl:        ""
+baseurl:        "blog"
 url:            "https://cstavitsky.github.io/"
 
 # Assets
