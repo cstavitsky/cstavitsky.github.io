@@ -86,6 +86,6 @@ Most of us probably think we're immune. A college kid might say, "Oh, I'll becom
 
 And maybe you will. But on some level, regardless of profession, you're either going to conform to the value system exhibited by the people around you, or you're going to be miserable.
 
-Right now, I'm happy to adopt the values of software engineers. I think that problem-solving, pragmatism, working effectively in a team, and a focus on quality of work over ego are both values I'm interested in strengthening. If you happen to be at a place where you might choose or change careers, consider carefully what kind of person you might grow into based on your choice.
+Right now, I'm happy to adopt the values of software engineers. I think that problem-solving, pragmatism, working effectively in a team, and a focus on quality of work over ego are all values I'm interested in strengthening. If you happen to be at a place where you might choose or change careers, consider carefully what kind of person you might grow into based on your choice.
 
 There have been studies about how making yourself smile (even unnaturally) causes you to become happy. I'm not going to debate how compelling those studies are, but the metaphor is useful. Making a choice that forces your values to adapt will cause you to adapt those values. So think about who you'd like to be, and make conscious choices that drive you towards becoming that kind of person.
