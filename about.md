@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-author: Chris
+author: Chris Stavitsky
 permalink: /about/
 published: true
 ---
@@ -14,7 +14,9 @@ It's likely that I'll also talk about these things (like in the `Theme` section 
 If you think I've fallen short in any way, please shoot me a note at `corridorr@gmail.com` and let me know what I can do to improve. There isn't a comment system here, but I always welcome your thoughts on any blog posts. If your feedback is kind, I'll be more receptive to it.
 
 ## Theme
-This is a [Jekyll](https://github.com/jekyll/jekyll) blog. Jekyll sites generate static html pages, rather than making extra calls to load up content from a database. Learn more about this [on Quora](https://www.quora.com/How-does-a-static-site-generator-like-Jekyll-work). It's hosted on Github Pages, which is the main reason I chose it. I looked into other blogging platforms like Ghost, but even hosting it yourself, you're going to be paying at least $5-10 per month.
+This is a [Jekyll](https://github.com/jekyll/jekyll) blog. Jekyll sites generate static html pages, rather than making extra calls to load up content from a database. Learn more about this [on Quora](https://www.quora.com/How-does-a-static-site-generator-like-Jekyll-work). I don't need any user generated content here, so this works great for me.
+
+It's hosted for free on Github Pages, which is one of the main reasons I chose it. I looked into other blogging platforms like Ghost, but even hosting it yourself, you're going to be paying at least $5-10 per month. That adds up!
 
 The theme is called Tale and you can [find and fork the original repository here](https://github.com/chesterhow/tale).
 
