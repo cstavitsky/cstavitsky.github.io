@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want To Alter Your Values? Make Big Decisions
-author: Chris
+author: Chris Stavitsky
 published: true
 ---
 Recently I began preparing to look for a new apartment. I'd been living in the same place for just shy of four years, with the same roommate. There were some big benefits to this. I didn't need to hire movers every year. I didn't need worry about what neighborhood to choose. My roommate, a friend from college, had a hugely positive influence on what I considered important and the career choices I made. And I think that keeping my living space constant may have helped me to better weather some emotional and existential storms these last couple of years.
