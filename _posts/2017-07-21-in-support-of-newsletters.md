@@ -36,4 +36,6 @@ Speaking of which, Tromple has become an outlet for me to chew on ideas myself. 
 
 In general, maintaining a low-pressure newsletter has been good for me. It lets me maintain a connection that feels worthwhile with the people I'm interested in staying in touch with. It prompts me to seek out new interesting things to read. It causes me to analyze what I'm reading and look for connections among seemingly unrelated things. It lets me inject a little of my own personality and commentary on the links I sent out.
 
-For all these same reasons, I think that writing a newsletter could be good for you, too. 
+For all these same reasons, I think that writing a newsletter could be good for you, too. I wouldn't urge you to follow the same format as me, necessarily (unless that's what draws you). But the world will only benefit from messages and emails with thought and care behind them. If you decide to start a newsletter yourself, I certainly hope you include me on it.
+
+On an unrelated note, I'm going to try moving from sending my messages via Gmail, and go through [TinyLetter](https://www.nytimes.com/2016/11/13/fashion/tinyletter-newsletters-the-new-blog.html). It might mean that the newsletter goes to some peoples' 'Social' tab on Gmail, but I'm curious to see how it affects Tromple. I'm also interested in opening up the newsletter to new subscribers, ones I might not know, and allowing people to unsubscribe themselves if they're no longer interested (in a way that's less blunt than having to email me and ask to be taken off the list).
