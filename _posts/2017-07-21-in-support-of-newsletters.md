@@ -26,5 +26,14 @@ Second, I wanted to make sure people actually got the email! As a Gmail user, I 
 
 I sent out the first issue and got a bunch of responses back. People seemed to like it. A few people I hadn't spoken to for a while sent me a note and I was thrilled to hear from them.
 
+And so I sent out some more. I wasn't very consistent about it except for maybe the first 3, which I sent out like clockwork at the same time, once a week. Then I lagged for a while. In total, since I started about 10 months ago, I've sent out 9 issues. I'd say that's fairly magazine-like.
 
-  
+One thing I want to note: if anyone was bothered by Tromple, I wanted them to let me know so I could stop sending them mail. Because I already knew everyone I was emailing, and I wasn't using a bulk-mailing service, there was no unsubscribe button. I let everyone know that if s/he were no longer interested in Tromple, to let me know and I would remove him or her. Over the last 9 issues, exactly zero people have asked to be removed from the list (of course, it's possibly some may have created a filter to send Tromple directly to spam). Which tells me I'm doing something right.
+
+Writing a newsletter is great because it's a semi-frequent, low-pressure way to feel connected to the people on my list. I hope it keeps a good chunk of them feeling connected to me. Receiving a newsletter isn't as urgent as getting emailed directly; there's no pressure to respond. It won't negatively affect our relationship if recipients don't respond. But, if someone _does_ want to respond, it's absolutely welcome. The newsletter format also provides us some interesting fodder to talk about and chew on. I like people who like to chew on ideas, and those are the kinds of people I most want to stay in touch with.
+
+Speaking of which, Tromple has become an outlet for me to chew on ideas myself. Professional life, depending on your profession, doesn't allow these kinds of outlets. We have a group chat client at work, and there are some fun rooms where people post funny things, but there's not really a ton of room for thinking about things, making connections. I don't regularly read any of the same publications, so Tromple has become a reason for me to seek out new interesting things to read, and a way to organize and tie together what I've found. And those interesting things don't necessarily have to be useful. They aren't required to teach you how to be a millionaire in the future, or how to accept your body better. They can just be interesting.
+
+In general, maintaining a low-pressure newsletter has been good for me. It lets me maintain a connection that feels worthwhile with the people I'm interested in staying in touch with. It prompts me to seek out new interesting things to read. It causes me to analyze what I'm reading and look for connections among seemingly unrelated things. It lets me inject a little of my own personality and commentary on the links I sent out.
+
+For all these same reasons, I think that writing a newsletter could be good for you, too. 
