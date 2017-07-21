@@ -2,7 +2,6 @@
 published: false
 layout: post
 author: Chris Stavitsky
+title: In Support of Maintaining Your Own Newsletter
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+On September 9, 2016, I sent out the first Tromple email newsletter. I bcc'd 
