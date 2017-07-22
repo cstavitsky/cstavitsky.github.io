@@ -6,11 +6,11 @@ title: In Praise of Newsletters
 ---
 On September 9, 2016, I sent out the first **Tromple** email newsletter. The conceit of **Tromple** was, and still is:
 
-> (Once every few weeks or so, I collect a small number of links (articles, images, sometimes videos or even full-on movies) centered loosely on a single theme. Then, I send them out in a little digest called Tromple.)
+> Once every few weeks or so, I collect a small number of links (articles, images, sometimes videos or even full-on movies) centered loosely on a single theme. Then, I send them out in a little digest called Tromple.
 
 (If you're not already getting Tromple, you can sign up quickly and easily [at this link](https://tinyletter.com/tromple).)
 
-A few weeks prior to that first issue I emailed, I'd been conversations about food authenticity. I happened to read this [article about the lack of truffles in truffle oil](https://priceonomics.com/there-are-no-truffles-in-truffle-oil/). I began thinking about other types of counterfeits, and I found myself dredging up memories of going to Chinatown as a child and ogling the fake Pokémon cards and (once I had developed truly sophisticated tastes, by age ten) Rolexes. 
+A few weeks prior to that first issue I emailed, I'd been having conversations about food authenticity (like, is your albacore tuna [actually the cheaper escolar?](http://www.npr.org/sections/thesalt/2013/02/21/172589997/one-in-three-fish-sold-at-restaurants-and-grocery-stores-is-mislabeled)). I happened to read this [article about the lack of truffles in truffle oil](https://priceonomics.com/there-are-no-truffles-in-truffle-oil/). I began thinking about other types of counterfeits, and I found myself dredging up memories of going to Chinatown as a child and ogling the fake Pokémon cards and (once I had developed truly sophisticated tastes, by age ten) Rolexes. 
 
 These concepts clumped together in a way that made sense to me. I decided this might be my chance to emulate the format of a mysterious, one-off digital 'magazine' (there was only [ever one issue](http://observist.net/)) I found a couple years ago. This 'magazine', called 'The Observist', was a collection of links around a single theme: Hermits.
 
@@ -40,4 +40,4 @@ In general, maintaining a low-pressure newsletter has been good for me. It lets 
 
 For all these same reasons, I think that writing a newsletter could be good for you, too. I wouldn't urge you to follow the same format as me, necessarily (unless that's what draws you). But the world will only benefit from messages and emails with thought and care behind them. If you decide to start a newsletter yourself, I certainly hope you include me on it.
 
-On an unrelated note, I'm going to try moving from sending my messages via Gmail, and go through [TinyLetter](https://www.nytimes.com/2016/11/13/fashion/tinyletter-newsletters-the-new-blog.html). It might mean that the newsletter goes to some peoples' 'Social' tab on Gmail, but I'm curious to see how it affects Tromple. I'm also interested in opening up the newsletter to new subscribers, ones I might not know, and allowing people to unsubscribe themselves if they're no longer interested (in a way that's less blunt than having to email me and ask to be taken off the list). 
+_(Starting with issue #10, I'm going to try out [TinyLetter](https://www.nytimes.com/2016/11/13/fashion/tinyletter-newsletters-the-new-blog.html) to send my Tromples. It might mean that the newsletter goes to some peoples' 'Social' tab on Gmail, but I'm curious to see how it affects Tromple. I'm also interested in opening up the newsletter to new subscribers, ones I might not know. I also think it's fair to allow people to unsubscribe themselves if they're no longer interested. Some may be concerned about damaging our relationship if they have to email me and ask to be taken off the list.)_
