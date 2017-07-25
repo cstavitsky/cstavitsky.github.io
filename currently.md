@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Currently..."
+author: "Chris Stavitsky"
+permalink: /currently/
+---
+
 ## Here's what I'm currently doing/reading/working on
 
 ### Reading
