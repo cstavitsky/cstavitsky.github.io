@@ -25,7 +25,5 @@ published: true
 
 <hr>
 
-## Currently Working On:
-* Web-app to help would-be entrepreneurs identify problems to solve by trawling online communities
-
-
+## Currently YouTubing:
+* Eric Holsinger's Unity 5 and Javascript tutorial series [on the building blocks of a 2D platformer game](https://www.youtube.com/playlist?list=PLcUMNfNaQynfFwHS1UEPrJbM3fFZqQgmY). I'm following along on my computer. Some programming experience needed.
