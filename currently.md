@@ -28,3 +28,5 @@ published: true
 
 ## Currently YouTubing:
 * Eric Holsinger's Unity 5 and Javascript tutorial series [on the building blocks of a 2D platformer game](https://www.youtube.com/playlist?list=PLcUMNfNaQynfFwHS1UEPrJbM3fFZqQgmY). I'm following along on my computer. Some programming experience needed.
+* [Iterative Drawing - The Fastest Way to Improve - Sycra](https://www.youtube.com/watch?v=k0ufz75UvHs&feature=youtu.be) 55 minutes? This might be the longest YouTube video I've ever watched. Definitely worth watching if you're an analytical person interested in improving your intuitive drawing.
+* [Stumptown Coffee shows how to use an Aeropress](https://www.youtube.com/watch?v=pmjPjZZRhNQ&t=4s). I think I'll probably brew mine in the kitchen instead.
