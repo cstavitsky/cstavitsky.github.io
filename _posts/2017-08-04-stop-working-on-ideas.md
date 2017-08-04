@@ -72,7 +72,7 @@ I'm meant to put whatever my current focuses are on this page. If I'm focused on
 
 ![LOOOK ANOTHER GOOD IDEA](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/idea%20flowchart%20-%20Page%201.png)
 
-(p.s. I used https://www.lucidchart.com/ to make this, if you're ever looking for an online flowchart maker)
+_(p.s. I used [LucidChart](https://www.lucidchart.com/) to make this, if you're ever looking for an online flowchart maker)_
 
 It calls my idea-hopping to my attention if I'm constantly updating the page. I actually started with a specific project on there (which I added excitedly immediately after having it). Two days later I realized I didn't really care, and deleted it. Since then, I've been more hesitant about adding projects.
 
