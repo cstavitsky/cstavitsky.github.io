@@ -70,7 +70,7 @@ For me, as someone with a mind that jumps from idea to idea naturally, I need to
 
 I'm meant to put whatever my current focuses are on this page. If I'm focused on it, I put it on the page. If it's on the page, then it's something I should focus on. I made this handy little flowchart to remind myself.
 
-![LOOOK ANOTHER GOOD IDEA]({{site.baseurl}}/_posts/idea flowchart - Page 1.png)
+![LOOOK ANOTHER GOOD IDEA](https://raw.githubusercontent.com/cstavitsky/cstavitsky.github.io/master/_posts/idea%20flowchart%20-%20Page%201.png)
 
 (p.s. I used https://www.lucidchart.com/ to make this, if you're ever looking for an online flowchart maker)
 
