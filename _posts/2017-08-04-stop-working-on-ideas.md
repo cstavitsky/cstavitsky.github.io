@@ -74,7 +74,7 @@ I'm meant to put whatever my current focuses are on this page. If I'm focused on
 
 _(p.s. I used [LucidChart](https://www.lucidchart.com/) to make this, if you're ever looking for an online flowchart maker)_
 
-It calls my idea-hopping to my attention if I'm constantly updating the page. I actually started with a specific project on there (which I added excitedly immediately after having it). Two days later I realized I didn't really care, and deleted it. Since then, I've been more hesitant about adding projects.
+It calls my idea-hopping to my attention if I'm constantly updating the page. I actually started with a specific project on there (which I added excitedly immediately after having the idea). Two days later I realized I didn't really care, and deleted it. Since then, I've been more hesitant about adding projects because I'm more aware of the ridiculous yo-yoing of my attention.
 
 In fact, I found that I avoided adding ideas to this page at all. Instead, I've mostly got learning resources. They just happen to overlap with the skills that I'm interested in building. Learning resources remind me of a system-based approach: because if I engage with the learning resources, I've succeeded. If I watch the video and practice my drawing, I've succeeded. And as a side effect I've strengthened some piece of my drawing skill. Just like a side effect of calorie counting is losing weight.
 
