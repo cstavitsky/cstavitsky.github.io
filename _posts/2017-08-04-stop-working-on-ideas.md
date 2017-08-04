@@ -66,7 +66,7 @@ Here's a big chunk of a Wired article from 2011, about feedback loops. If you do
 
 Systems-based approaches tend to work best when there's a good feedback loop. Our system-based weight-loss buddy, Person B, is tracking his calories daily to understand how much food he's putting into his body. Simply being aware of how much he is eating will influence his behavior, even though the calorie tracker does not force him to eat any differently. It's a near 1:1 of the speed limit example from the Wired article.
 
-For me, as someone with a mind that jumps from idea to idea naturally, I need to have some kind of feedback loop. Right now, that happens to be a pretty low-tech solution. In fact, I can link you to it, right here: http://irrationallyexcited.com/currently/
+For me, as someone with a mind that jumps from idea to idea naturally, I need to have some kind of feedback loop. Right now, that happens to be a pretty low-tech solution. In fact, I can link you to it, right here: [http://irrationallyexcited.com/currently/](http://irrationallyexcited.com/currently/)
 
 I'm meant to put whatever my current focuses are on this page. If I'm focused on it, I put it on the page. If it's on the page, then it's something I should focus on. I made this handy little flowchart to remind myself.
 
@@ -76,8 +76,8 @@ _(p.s. I used [LucidChart](https://www.lucidchart.com/) to make this, if you're 
 
 It calls my idea-hopping to my attention if I'm constantly updating the page. I actually started with a specific project on there (which I added excitedly immediately after having it). Two days later I realized I didn't really care, and deleted it. Since then, I've been more hesitant about adding projects.
 
-In fact, I found that I avoided adding ideas at all. Instead, I've mostly got learning resources. They just happen to overlap with the skills that I'm interested in building. Learning resources remind me of a system-based approach: because if I engage with the learning resources, I've succeeded. If I watch the video and practice my drawing, I've succeeded. And as a side effect I've strengthened some piece of my drawing skill. Just like a side effect of calorie counting is losing weight.
+In fact, I found that I avoided adding ideas to this page at all. Instead, I've mostly got learning resources. They just happen to overlap with the skills that I'm interested in building. Learning resources remind me of a system-based approach: because if I engage with the learning resources, I've succeeded. If I watch the video and practice my drawing, I've succeeded. And as a side effect I've strengthened some piece of my drawing skill. Just like a side effect of calorie counting is losing weight.
 
 Letting your achievements become side effects of your actions, instead of the pressure-filled main event, is a much more relaxing way of approaching ambition.
 
-So, if you ever happen to be curious about what I'm up to, just check out http://irrationallyexcited.com/currently/.
+So, if you ever happen to be curious about what I'm up to, just check out [http://irrationallyexcited.com/currently/](http://irrationallyexcited.com/currently/).
