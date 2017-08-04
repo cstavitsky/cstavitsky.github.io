@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+author: Chris Stavitsky
 ---
 I'm the kind of person who's constantly coming up with new ideas. These are usually ideas for products or projects, but can also be, to a lesser extent, things I want to read or write. Some of the ideas are terrible. Some are pretty decent and could probably enjoy mild small-scale success. 
 
@@ -11,4 +13,4 @@ The phenomenon only happens in my personal projects. At work, it isn't an issue;
 
 As an individual with a full-time job and interests beyond software, it can be hard to figure out what's worth pursuing.
 
-At the moment, I feel that 
+At the moment, I feel that
