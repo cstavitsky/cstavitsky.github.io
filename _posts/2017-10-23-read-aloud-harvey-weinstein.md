@@ -2,6 +2,7 @@
 published: true
 layout: post
 author: Chris Stavitsky
+title: Read Aloud - Harvey Weinstein and the Economics of Consent
 ---
 ![get it?](https://github.com/cstavitsky/cstavitsky.github.io/blob/master/_posts/red_aloud.png?raw=true)
 
