@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+author: Chris Stavitsky
 ---
 ## Read Aloud #1: Harvey Weinstein and the Economics of Consent
 
