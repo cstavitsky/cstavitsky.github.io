@@ -3,9 +3,9 @@ published: true
 layout: post
 author: Chris Stavitsky
 ---
-## Read Aloud #1: Harvey Weinstein and the Economics of Consent
+![get it?](https://github.com/cstavitsky/cstavitsky.github.io/blob/master/_posts/red_aloud.png?raw=true)
 
-![get it?]({{site.baseurl}}/_posts/red_aloud.png)
+No. 1: Harvey Weinstein and the Economics of Consent
 
 My girlfriend sent me an [article from The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/10/harvey-weinstein-and-the-economics-of-consent/543618/) today. It was written by Brit Marling and adds another voice to the ongoing Harvey Weinstein sexual assault/harrassment saga.
 
