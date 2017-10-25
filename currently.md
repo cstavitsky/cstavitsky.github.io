@@ -13,7 +13,7 @@ published: true
 * [Let My People Go Surfing - Yvon Chouinard (founder of Patagonia)](https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677/ref=sr_1_1?s=books&ie=UTF8&qid=1508901161&sr=1-1&keywords=let+my+people+go+surfing)
 * [Clean Code - Robert Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
-#### Blogs
+### Blogs
 * [Joel on Software - Joel Spolsky (mostly the 'new developer' parts)](https://www.joelonsoftware.com/)
 * [Put This On](http://putthison.com/)
 * [Die Workwear](http://dieworkwear.com/)
