@@ -8,15 +8,9 @@ published: true
 
 ## Currently Reading:
 
-### Books
-
 * [Let My People Go Surfing - Yvon Chouinard (founder of Patagonia)](https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677/ref=sr_1_1?s=books&ie=UTF8&qid=1508901161&sr=1-1&keywords=let+my+people+go+surfing)
 * [Clean Code - Robert Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-
-### Blogs
-* [Joel on Software - Joel Spolsky (mostly the 'new developer' parts)](https://www.joelonsoftware.com/)
-* [Put This On](http://putthison.com/)
-* [Die Workwear](http://dieworkwear.com/)
+* [Casuals: Football, Fighting & Fashion: The Story of a Terrace Cult - Phil Thornton](https://www.amazon.com/Casuals-Terrace-Fashion-Phil-Thornton/dp/1903854148)
 
 <hr>
 
@@ -30,3 +24,8 @@ published: true
 * This [Lo-fi hiphop set](https://youtu.be/0cKzCUdtRh8)
 * [Iterative Drawing - The Fastest Way to Improve - Sycra](https://www.youtube.com/watch?v=k0ufz75UvHs&feature=youtu.be) 55 minutes? This might be the longest YouTube video I've ever watched. Definitely worth watching if you're an analytical person interested in improving your intuitive drawing.
 * [Stumptown Coffee shows how to use an Aeropress](https://www.youtube.com/watch?v=pmjPjZZRhNQ&t=4s). I've been making coffee pretty much every morning for 2-3 months thanks to this! I don't care all too much about temperature, measurements, brew time, etc., so while on some level it's kind of funny that he's putting all this effort into making a perfect cup while in the woods, I also appreciate that it feels less clinical than when done in a fancy coffee shop surrounded by scales and glass beakers.
+
+<hr>
+
+## Currently Playing:
+* [Night in the Woods](http://store.steampowered.com/app/481510/Night_in_the_Woods/)
