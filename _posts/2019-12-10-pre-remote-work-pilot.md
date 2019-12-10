@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # December 10, 2019
 
