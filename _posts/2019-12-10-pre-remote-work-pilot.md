@@ -2,10 +2,6 @@
 published: true
 author: Chris Stavitsky
 ---
-# December 10, 2019
-
-## Details on the Remote Work Pilot
-
 I haven't actually started working remotely just yet -- that's in just under a week on December 16.
 
 Enova's running a small work-remote pilot program. In the future, this will lead to new remote hires, plus (I think) other in-office workers transitioning to remote. The benefits of work to the company are saving money on desk space and broadening the talent pool (plus the option of remote-work as a perk to those who want it).
