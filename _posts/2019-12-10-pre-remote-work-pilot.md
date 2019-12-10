@@ -12,11 +12,11 @@ I am currently a Software Engineer II.
 
 ## Why I'm Keeping a Journal
 
-For Enova's benefit: My entries can be used as qualitative markers to identify any part of the process that is or isn’t going smoothly. Also, excerpts from these journals could potentially be used as blog posts to attract new remote talent.
+**For Enova's benefit.** My entries can be used as qualitative markers to identify any part of the process that is or isn’t going smoothly. Also, excerpts from these journals could potentially be used as blog posts to attract new remote talent.
 
-For my own benefit: Journaling in general helps me clear my head and understand how I think and feel about things. I figure my first time working remote will come with some interesting challenges to work through, and I want to document those things so I can remain aware of them and ultimately grow from them.
+**For my own benefit.** Journaling in general helps me clear my head and understand how I think and feel about things. I figure my first time working remote will come with some interesting challenges to work through, and I want to document those things so I can remain aware of them and ultimately grow from them.
 
-For the benefit of those considering remote work: I'm also hopeful my journal entries could be useful to read for those who are considering transitioning from in-office work to remote work at Enova (or other companies).
+**For the benefit of those considering remote work.** I'm also hopeful my journal entries could be useful to read for those who are considering transitioning from in-office work to remote work at Enova (or other companies).
 
 ## A Few Ways I'm Preparing for Remote Work
 
@@ -38,11 +38,11 @@ I also recognize, from reading others' accounts, that remote work has the potent
 
 I plan to experiment with a number of strategies to try to proactively offset this stuff. Those experiments will include:
 
-1) Scheduling coffee with friends or coworkers downtown so I have a reason to leave my apartment, and get some socialization.
-2) Scheduling workouts almost daily. I typically only work out 1-2 times per week in the evening, but since exercise is so directly tied to mood, I'm thinking of working out most days, and trying to do so in the morning. There's a yoga and barre studio (wtf is barre? Maybe I'll find out) a very short walk from my apartment, so I may try that out.
-3) Setting aside time to write. Definitely to journal about my remote work experience at least. This feels like it will help me process any difficulties that come up.
-4) 'Remote office rooms' with a friend or two of mine that work remote for different companies. We had spoken about trying out a system where we keep a videochat open during the day and catch up / shoot the sh\*t during breaks.
-5) Going for walks. I already do this downtown, but there's a more natural cadence to it (i.e. after a meeting I'll go to a coffee shop a short walk away, which gets me some fresh air). I may start scheduling time blocks for walks when I'm working remotely.
-6) ??? More to come I'm sure.
+1. Scheduling coffee with friends or coworkers downtown so I have a reason to leave my apartment, and get some socialization.
+2. Scheduling workouts almost daily. I typically only work out 1-2 times per week in the evening, but since exercise is so directly tied to mood, I'm thinking of working out most days, and trying to do so in the morning. There's a yoga and barre studio (wtf is barre? Maybe I'll find out) a very short walk from my apartment, so I may try that out.
+3. Setting aside time to write. Definitely to journal about my remote work experience at least. This feels like it will help me process any difficulties that come up.
+4. 'Remote office rooms' with a friend or two of mine that work remote for different companies. We had spoken about trying out a system where we keep a videochat open during the day and catch up / shoot the sh\*t during breaks.
+5. Going for walks. I already do this downtown, but there's a more natural cadence to it (i.e. after a meeting I'll go to a coffee shop a short walk away, which gets me some fresh air). I may start scheduling time blocks for walks when I'm working remotely.
+6. ??? More to come I'm sure.
 
 Overall I'd like to experiment and document my experience with these strategies to figure out what works best for me personally.
