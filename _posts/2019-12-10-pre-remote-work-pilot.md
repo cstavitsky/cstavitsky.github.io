@@ -1,6 +1,7 @@
 ---
 published: true
 author: Chris Stavitsky
+title: 12/10/2019 - Before the Remote Work Pilot
 ---
 I haven't actually started working remotely just yet -- that's in just under a week on December 16.
 
