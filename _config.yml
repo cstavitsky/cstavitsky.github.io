@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Irrationally Excited
+title:          Chris Stavitsky
 paginate:       5
 baseurl:        "https://cstavitsky.github.io"
 url:            "https://cstavitsky.github.io"
