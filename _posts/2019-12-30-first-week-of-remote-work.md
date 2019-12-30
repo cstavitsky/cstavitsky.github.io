@@ -3,7 +3,7 @@ published: true
 title: First Week of Remote Work
 author: Chris Stavitsky
 ---
-My first week of remote work is in the books. So far it's been great. Here's a summary of how the week went, with a few 'retro'-style on what went well and what didn't.
+My first week of remote work is in the books. So far it's been great. Here's a summary of how the week went, with a few 'retro'-style reflections on what went well and what didn't.
 
 On **Monday and Tuesday**, I kept the same schedule. First, I worked at home in the morning (in a small room designated only for working, with a desk and ergonomic office chair). I've been using only one monitor. Although some people prefer as many screens as possible, I notice sharply diminishing returns after the first monitor.
 
