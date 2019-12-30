@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: First Week of Remote Work
 author: Chris Stavitsky
 ---
